@@ -1,0 +1,242 @@
+[
+  {
+    "id": 157879,
+    "name": "Base Crepe",
+    "visible": true,
+    "imageLocation": "",
+    "kitchenImageLocation": "",
+    "cfdImageLocation": "",
+    "price": 129.95,
+    "priceWithoutVat": 3.75,
+    "takeawayPrice": 3.5,
+    "takeawayPriceWithoutVat": 3.5,
+    "deliveryPrice": 4.5,
+    "deliveryPriceWithoutVat": 3.75,
+    "productType": "",
+    "sku": "SAC14",
+    "taxClass": "BUILTIN-20.00",
+    "deliveryTaxClass": "BUILTIN-20.00",
+    "takeawayTaxClass": "BUILTIN-0.00",
+    "stockAmount": 0,
+    "groupIds": [
+      62732,
+      62773
+    ],
+    "additions": [
+      {
+        "id": 3390,
+        "name": "Savoury Toppings",
+        "displayName": "",
+        "values": [
+          {
+            "id": 11518,
+            "name": "Vegan Cheese Swap",
+            "price": 0.0,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA4"
+          },
+          {
+            "id": 11519,
+            "name": "Vegan Chicken Swap",
+            "price": 0.0,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSA11"
+          },
+          {
+            "id": 11520,
+            "name": "Spinach",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA18"
+          },
+          {
+            "id": 11521,
+            "name": "Tomato",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA21"
+          },
+          {
+            "id": 11522,
+            "name": "Mushrooms",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA13"
+          },
+          {
+            "id": 11523,
+            "name": "Cheddar",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA3"
+          },
+          {
+            "id": 11524,
+            "name": "Vegan Cheese",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSA10"
+          },
+          {
+            "id": 11525,
+            "name": "Vegan Chicken",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSA12"
+          },
+          {
+            "id": 11526,
+            "name": "Red Onion",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA14"
+          },
+          {
+            "id": 11527,
+            "name": "Bacon",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA2"
+          },
+          {
+            "id": 11528,
+            "name": "Mozzarella",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA12"
+          },
+          {
+            "id": 11529,
+            "name": "Chicken",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA7"
+          },
+          {
+            "id": 11530,
+            "name": "Pesto",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA15"
+          },
+          {
+            "id": 11531,
+            "name": "Goat Cheese",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA10"
+          },
+          {
+            "id": 11532,
+            "name": "Ham",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA11"
+          },
+          {
+            "id": 11533,
+            "name": "Salsa",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA16"
+          },
+          {
+            "id": 11534,
+            "name": "Salmon",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA19"
+          },
+          {
+            "id": 11535,
+            "name": "Cream Cheese",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA6"
+          },
+          {
+            "id": 11536,
+            "name": "Chillis",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA5"
+          },
+          {
+            "id": 11537,
+            "name": "Onion Confit",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA8"
+          },
+          {
+            "id": 11538,
+            "name": "Avocado",
+            "price": 1.25,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSVA22"
+          },
+          {
+            "id": 11539,
+            "name": "Walnuts",
+            "price": 0.95,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSavouryToppingsSWA15"
+          }
+        ],
+        "multiselect": true,
+        "minSelectedAmount": 0,
+        "maxSelectedAmount": -1
+      },
+      {
+        "id": 3400,
+        "name": "ASK CUSTOMER IF THEY WANT SALAD",
+        "displayName": "",
+        "values": [
+          {
+            "id": 11600,
+            "name": "Salad",
+            "price": 1.5,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODSaladSVA1"
+          }
+        ],
+        "multiselect": false,
+        "minSelectedAmount": 0,
+        "maxSelectedAmount": 1
+      },
+      {
+        "id": 3401,
+        "name": "Take Away",
+        "displayName": "",
+        "values": [
+          {
+            "id": 11601,
+            "name": "Cone",
+            "price": 0.0,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODTA1"
+          },
+          {
+            "id": 11602,
+            "name": "Box",
+            "price": 0.0,
+            "priceWithoutVAT": 0.0,
+            "plu": "MODTA2"
+          }
+        ],
+        "multiselect": false,
+        "minSelectedAmount": 0,
+        "maxSelectedAmount": 1
+      },
+      {
+        "id": 3402,
+        "name": "Note",
+        "values": [],
+        "multiselect": false,
+        "minSelectedAmount": 0,
+        "maxSelectedAmount": 1
+      }
+    ],
+    "info": ""
+  }
+]

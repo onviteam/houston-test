@@ -1,0 +1,14 @@
+version: '3'
+services:
+  houston:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    entrypoint: ./docker-entrypoint.sh
+    command: ["rails", "server", "-b", "0.0.0.0"]
+    volumes:
+      - .:/opt/app
+    ports:
+      - "3000:3000"
+    environment:
+      RAILS_ENV: "development"
