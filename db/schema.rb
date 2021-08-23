@@ -11,7 +11,6 @@
 # you'll amass, the slower it'll run and the greater likelihood for issues).
 #
 # It's strongly recommended that you check this file into your version control system.
-# rubocop:disable Metrics/BlockLength
 
 ActiveRecord::Schema.define(version: 20_210_823_094_000) do
   create_table 'categories', force: :cascade do |t|
@@ -45,5 +44,3 @@ ActiveRecord::Schema.define(version: 20_210_823_094_000) do
     t.datetime 'updated_at', null: false
   end
 end
-
-# rubocop:enable Metrics/BlockLength

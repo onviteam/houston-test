@@ -24,7 +24,6 @@ Run:
 
 Alternativly you can use docker
     `docker-compose build`
-    `docker-compose up`
     `docker-compose run houston bundle exec rake db:create db:migrate db:seed db:test:prepare`
     `docker-compose run -e "RAILS_ENV=test" houston bundle exec rspec`
     `docker-compose run -e "RAILS_ENV=test" houston bundle exec rubocop`
